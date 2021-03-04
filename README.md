@@ -12,7 +12,7 @@ O projeto **Bikcraft** foi realizado no curso do Origamid, como não tenho o cur
 
 Como sou dev-jr, peguei esse desafio para treinar minhas habilidades como front-end.
 
-![homepage](https://github.com/glauberbandeira/bikcraft/images/bikcraft.png)
+![homepage](https://github.com/glauberbandeira/bikcraft/blob/master/images/bikcraft.png)
 
 ## 🚀 Tecnologias utilizadas 🛠
 
